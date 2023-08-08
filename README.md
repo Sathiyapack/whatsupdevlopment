@@ -1,0 +1,2 @@
+# whatsupdevlopment
+studying git purpose
