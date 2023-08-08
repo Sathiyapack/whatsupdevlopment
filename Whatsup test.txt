@@ -3,4 +3,3 @@
 3. create blue tick for msg read
 4. attach viedo, Doc, photos.
 5. add Loc feature
-6.add video feature
