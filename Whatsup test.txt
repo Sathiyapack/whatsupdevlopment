@@ -1,0 +1,4 @@
+1. Design Layout
+2. add contacts
+3. create blue tick for msg read
+4. attach viedo, Doc, photos.
