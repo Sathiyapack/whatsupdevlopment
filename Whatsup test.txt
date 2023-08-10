@@ -4,3 +4,4 @@
 4. attach viedo, Doc, photos.
 5. add Loc feature
 6. Add video and audio feature
+7. add double blue tick feature
